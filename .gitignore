@@ -1,0 +1,4 @@
+program
+*.o
+*.tmp
+*.html
